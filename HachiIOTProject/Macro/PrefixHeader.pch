@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  HachiIOTProject
+//
+//  Created by xuguangyao on 2020/3/31.
+//  Copyright © 2020 com.haqi. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIConfig.h"
+#import "SingLeton.h"
+#import "UrlConfig.h"
+#import "YColorManger.h"
+#import <TuyaSmartHomeKit/TuyaSmartKit.h>
+#import <Masonry.h>
+#import <YYModel.h>
+#import "Help.h"
+#import <NSString+YYAdd.h>
+#import "UserModel.h"
+#import "YNetworkRequest.h"
+#import "SmartStorageModel.h"
+#import "IOTRequestManger.h"
+#import <MJRefresh.h>
+#endif /* PrefixHeader_pch */
