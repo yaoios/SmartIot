@@ -26,6 +26,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.navigationItem.title = @"网关配网";
+    
     timeLeft = 100;
     timeout = timeLeft;
     [self initView];
